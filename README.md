@@ -1,7 +1,7 @@
 ![logo](https://github.com/amit-mishra-au51/amit-mishra-au51/blob/main/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Amit Mishra</h1>
-<h3 align="center">A passionate full-stack developer from India.</h3>
+<h3 align="center">A passionate full-stack developer and Data Analyst from India.</h3>
 
 <p align="center">
 My GitHub profile is a reflection of my commitment to open-source projects and collaboration within the developer community. Here, you will find a variety of repositories showcasing my projects and contributions to other open-source projects.
@@ -17,8 +17,9 @@ I am constantly striving to learn new things and improve my skills, and my GitHu
 - 👨‍💻 All of my projects are available at [https://github.com/amit-mishra-au51](https://github.com/amit-mishra-au51)
 
 - 💬 Ask me about **MERN**
+- 💬 Ask me about **Python Pandas Google Sheet Looker Studio **
 
-- 📫 How to reach me **amit456mshra@gmail.com**
+- 📫 How to reach me **amit456mishra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
