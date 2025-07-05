@@ -1,7 +1,7 @@
 ![logo](https://github.com/amit-mishra-au51/amit-mishra-au51/blob/main/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Amit Mishra</h1>
-<h3 align="center">A passionate full-stack developer and Data Analyst from India.</h3>
+<h3 align="center">A passionate Data Analyst from India..</h3>
 
 <p align="center">
 My GitHub profile is a reflection of my commitment to open-source projects and collaboration within the developer community. Here, you will find a variety of repositories showcasing my projects and contributions to other open-source projects.
@@ -12,12 +12,12 @@ I am constantly striving to learn new things and improve my skills, and my GitHu
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-mishra-au51&label=Profile%20views&color=0e75b6&style=flat" alt="amit-mishra-au51" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AWS BigData**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amit-mishra-au51](https://github.com/amit-mishra-au51)
 
-- 💬 Ask me about **MERN**
-- 💬 Ask me about **Python Google Sheet Looker Studio PowerBI Excel Tableau AppScript SQL DAX Stats**
+- 💬 Ask me about **Anything related to Data Analyst**
+- 💬 Ask me about **Python Google Sheet Looker Studio PowerBI Excel Tableau AppScript SQL DAX Stats AWS BigData BigQuery SQL ETL**
 
 - 📫 How to reach me **amit456mishra@gmail.com**
 
