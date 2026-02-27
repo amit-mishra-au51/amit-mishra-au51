@@ -17,7 +17,7 @@ I am constantly striving to learn new things and improve my skills, and my GitHu
 - 👨‍💻 All of my projects are available at [https://github.com/amit-mishra-au51](https://github.com/amit-mishra-au51)
 
 - 💬 Ask me about **Anything related to Data Analyst**
-- 💬 Ask me about **Python Google Sheet Looker Studio PowerBI Excel Tableau AppScript SQL DAX Stats AWS BigData BigQuery SQL ETL**
+- 💬 Ask me about **Python Google Sheet Looker Studio PowerBI Excel AppScript SQL DAX Stats AWS BigData BigQuery SQL ETL**
 
 - 📫 How to reach me **amit456mishra@gmail.com**
 
